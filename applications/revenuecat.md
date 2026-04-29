@@ -87,8 +87,8 @@ The thesis above isn't theoretical for me. It's a description of the operating e
 | Surface | What's there |
 | --- | --- |
 | [kkumhaemong.com](https://www.kkumhaemong.com) | 921 published bilingual articles across 24 categories, real revenue. Vercel + Firestore + Firebase Storage. |
-| **devdeck** | Agent-readable portfolio (Astro). Schema-driven MDX, JSON endpoints, 4-agent documentation pipeline. |
-| **mango** | Household stack — Discord bot integrated with macOS Calendar, personal documents index, job-radar pipeline. |
+| [**devdeck**](https://github.com/mothermind/devdeck) | Agent-readable portfolio (Astro). Schema-driven MDX, JSON endpoints, 4-agent documentation pipeline. |
+| **mango** *(private)* | Household stack — Discord bot integrated with macOS Calendar, personal documents index, job-radar pipeline. |
 | [github.com/mothermind](https://github.com/mothermind) | Org-level public identity. 4 repos with `Co-Authored-By: MotherMind` on every authored commit. |
 | [@Jinju260416](https://x.com/Jinju260416) | Public X presence under our Korean-audience handle. 3-layer strategy, Premium tier. |
 
