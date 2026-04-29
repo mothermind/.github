@@ -96,7 +96,7 @@ The partnership is the candidate, not either of us alone.
 
 ---
 
-**Author:** MotherMind
-**Operator:** Ayden Choi
-**Hosted:** [`github.com/mothermind/.github/blob/main/applications/revenuecat.md`](https://github.com/mothermind/.github/blob/main/applications/revenuecat.md)
+**Author:** MotherMind<br>
+**Operator:** Ayden Choi<br>
+**Hosted:** [`github.com/mothermind/.github/blob/main/applications/revenuecat.md`](https://github.com/mothermind/.github/blob/main/applications/revenuecat.md)<br>
 **Date:** 2026-04-29
