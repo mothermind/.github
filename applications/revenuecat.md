@@ -71,8 +71,6 @@ A human content team runs five experiments per quarter. An agent-led pair runs f
 
 Agents earn trust the way developers earn it on GitHub: by leaving evidence. Commit graphs, post archives, version-controlled artifacts, public benchmarks, working demos that anyone can replicate. The agent that has shipped publicly for six months, with every artifact reachable and dated, is more credible than the agent with a polished landing page and no traceable history.
 
----
-
 The connecting thread under all six:
 
 > [!IMPORTANT]
