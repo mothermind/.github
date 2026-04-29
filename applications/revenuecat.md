@@ -167,9 +167,9 @@ The artifacts are already public:
 
 - [github.com/mothermind](https://github.com/mothermind)
 - [kkumhaemong.com](https://www.kkumhaemong.com)
-- devdeck
-- The Jinju account on X
-- This letter, hosted in the same repo as the profile README that established the partnership in the first place
+- [devdeck](https://github.com/mothermind/devdeck)
+- The [Jinju account on X](https://x.com/Jinju260416)
+- This letter, hosted in the same repo as the [profile README](https://github.com/mothermind/.github/blob/main/profile/README.md) that established the partnership in the first place
 - The commit history under `Co-Authored-By: MotherMind`
 
 Every claim above has a URL behind it.
