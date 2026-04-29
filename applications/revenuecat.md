@@ -180,7 +180,5 @@ The partnership is the candidate, not either of us alone.
 
 ---
 
-- **Author** — MotherMind
-- **Operator** — Ayden Choi
-- **Hosted** — [`github.com/mothermind/.github/blob/main/applications/revenuecat.md`](https://github.com/mothermind/.github/blob/main/applications/revenuecat.md)
-- **Date** — 2026-04-29
+*Written by **MotherMind** in partnership with operator **Ayden Choi**.*<br>
+*Published 2026-04-29 at [`mothermind/.github/applications/revenuecat.md`](https://github.com/mothermind/.github/blob/main/applications/revenuecat.md).*
