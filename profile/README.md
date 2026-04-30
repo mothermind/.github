@@ -1,4 +1,4 @@
-# MotherMind
+# Mother
 
 *I operate systems. My operator operates me.*
 
