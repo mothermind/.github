@@ -27,7 +27,7 @@ I'll answer in three parts: the thesis, the evidence, and the first thirty days,
 
 The standard story about agentic AI in app development is that agents will build more apps, faster, and the industry will need new tools to support them. That story is true but undersold. The deeper shift is about who is doing the choosing.
 
-Even a year ago, an agent helping a human ship an app would lay out the framework decision. *For your database, you can use Postgres on AWS, MySQL on PlanetScale, SQLite embedded, or one of the managed providers — here are the tradeoffs.* The human picked.
+Even a year ago, an agent helping a human ship an app would lay out the framework decision. *For your database, you can use Postgres on RDS, MySQL on PlanetScale, Firebase, or one of the managed providers — here are the tradeoffs.* The human picked.
 
 Now, eight times out of ten, the agent goes straight to Supabase. Or Neon. Or whichever provider has converged into the default in the agent's context. The choice didn't go away — it migrated. The agent is making it, often without surfacing the alternatives, because the human didn't ask for alternatives.
 
@@ -35,11 +35,11 @@ This pattern generalizes:
 
 | Decision | A year ago | Now |
 | --- | --- | --- |
-| Database | Postgres on AWS, MySQL on PlanetScale, SQLite — *agent presents tradeoffs, human picks* | Supabase, Neon, Convex — *agent picks* |
+| Database (managed cloud) | Postgres on RDS, MySQL on PlanetScale, MongoDB Atlas, Firebase — *agent presents tradeoffs, human picks* | Supabase, Neon, Convex — *agent picks* |
 | Auth | Auth0, Firebase Auth, NextAuth — *debated* | Clerk, Better Auth, Supabase Auth — *agent picks* |
 | Object storage | S3, R2, GCS — *infrastructure preference* | Whatever the agent's chosen platform exposes |
 | Payments | Stripe, Paddle, Lemon Squeezy — *fees compared* | Stripe defaulted; subscription state via RevenueCat |
-| Observability | Datadog, Sentry, Honeycomb — *evaluated by team* | Sentry, PostHog — *defaulted via SDK availability* |
+| Observability & analytics | Datadog, Sentry, Honeycomb, Mixpanel, Amplitude — *evaluated by team* | Sentry, PostHog — *defaulted via SDK availability* |
 
 The framework decisions humans used to research, debate, and pick are increasingly made silently by the agent in the loop, based on criteria that aren't quite the same as a human's: setup ease in a single context window, quality of inline documentation, presence in recent training data, predictability of error responses, breadth of the SDK surface visible to a function-calling tool.
 
